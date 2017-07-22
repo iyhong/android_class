@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/naver"
+        android:title="네이버"
+        />
+
+    <item android:id="@+id/daum"
+        android:title="다음"
+        />
+
+    <item android:id="@+id/chat"
+        android:title="채팅"
+        />
+    <item android:id="@+id/wix"
+        android:title="윅스"
+        />
+
+</menu>
